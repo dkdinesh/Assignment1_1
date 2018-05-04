@@ -1,0 +1,13 @@
+1. Say True or False for the below statements:
+• Prescriptive Analytics used to predict the future outcomes?  True
+• Base R packages installed automatically? True 
+
+2. What is Recycling of elements in a vector?
+
+when applying an operations to two vectors that requries them to the same length, R automatically recycles or repeats the shorter one .
+
+3 . Give an example of recycling of elements.
+
+c(1,2,3,4,5) + cc(1,3)
+
+o/p : [1] 2,5,4,7,6 
